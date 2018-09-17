@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3ed06c497dba2955b04c047563030f07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\558952d084a5bd2691ec7deac6e44761\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d0b1a62385ab29b97284b32abdd2ee3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3930d349c347a9d9a6f8e0585fcd8c10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\581c9d83f06a68bcb4f7dab236425abe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b06f10efda50842d85cada9f0453cf57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f2d9855b0b3f8e242a3fa6d609860506\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\aca95f97a587281feaf36e3f88dc2b4b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0b8e3aef355eeea69479ee0be66ef889\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11b91929dcb7b9788951ba029b1be2eb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\52624134959d5acf6139d5778119e36c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:5:5-29
+		INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3ed06c497dba2955b04c047563030f07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3ed06c497dba2955b04c047563030f07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\558952d084a5bd2691ec7deac6e44761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\558952d084a5bd2691ec7deac6e44761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d0b1a62385ab29b97284b32abdd2ee3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d0b1a62385ab29b97284b32abdd2ee3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3930d349c347a9d9a6f8e0585fcd8c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3930d349c347a9d9a6f8e0585fcd8c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\581c9d83f06a68bcb4f7dab236425abe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\581c9d83f06a68bcb4f7dab236425abe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b06f10efda50842d85cada9f0453cf57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b06f10efda50842d85cada9f0453cf57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f2d9855b0b3f8e242a3fa6d609860506\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f2d9855b0b3f8e242a3fa6d609860506\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\aca95f97a587281feaf36e3f88dc2b4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\aca95f97a587281feaf36e3f88dc2b4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0b8e3aef355eeea69479ee0be66ef889\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0b8e3aef355eeea69479ee0be66ef889\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11b91929dcb7b9788951ba029b1be2eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11b91929dcb7b9788951ba029b1be2eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\52624134959d5acf6139d5778119e36c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ayeletco\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\52624134959d5acf6139d5778119e36c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:12:19-67
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:17:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:20:5-86
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:20:22-83
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:21:2-62
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:21:19-59
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:22:22-63
+application
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:25:5-54:19
+	android:label
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:28:9-38
+	android:allowBackup
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:27:9-35
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:26:9-73
+activity#net.majorkernelpanic.spydroid.ui.SpydroidActivity
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:31:9-40:20
+	android:label
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:33:13-45
+	android:launchMode
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:34:13-48
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:32:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.google.ads.AdActivity
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:42:9-44:125
+	android:configChanges
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:44:13-122
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:43:13-53
+activity#net.majorkernelpanic.spydroid.ui.OptionsActivity
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:48:13-59
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:47:13-76
+service#net.majorkernelpanic.spydroid.api.CustomHttpServer
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:51:9-85
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:51:18-83
+service#net.majorkernelpanic.spydroid.api.CustomRtspServer
+ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:52:9-85
+	android:name
+		ADDED from C:\Users\ayeletco\StudioProjects\spydroid-ipcamera1\app\src\main\AndroidManifest.xml:52:18-83
